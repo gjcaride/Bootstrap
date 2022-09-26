@@ -1,0 +1,17 @@
+
+* {
+    padding: auto;
+    margin: auto;
+}
+.a {
+    width: 100px;
+    height: 100px;
+    background: #0e0d0d;
+    opacity: .6;
+}
+.secret {
+    opacity: 0.6;
+}
+.links {
+    text-align: start;
+}
